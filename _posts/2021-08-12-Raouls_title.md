@@ -1,3 +1,7 @@
+---
+title: "You can be a hero for your kids!"
+date: 2021-08-12
+---
 So this is y new blog.
 
 I have no idea where this is going.
