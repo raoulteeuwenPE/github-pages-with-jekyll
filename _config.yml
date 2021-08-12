@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Why you should care about global warming ... and what you can do!
+author: Raoul
+email: r.teeuwen@pure-energie.nl
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  About global warming, why people should care, and 
+  what they can actually do themselves
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: raoulteeuwen
+github_username:  raoulteeuwenPE
 
 show_excerpts: true # set to false to remove excerpts on the homepage
